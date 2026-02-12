@@ -107,16 +107,7 @@ public class Pursuer: MonoBehaviour
     
 ```
 ### Output:
-
 <img width="907" height="941" alt="Screenshot 2026-02-12 135408" src="https://github.com/user-attachments/assets/9bc86cf3-2968-4e9a-b347-f265285e4601" />
-
-
-
-
-
-
-
-
 
 ### Result:
 Thus the simple pursue and evade behavior was implemented successfully.
