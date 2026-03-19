@@ -157,8 +157,13 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
+```
+
 ### Output:
 
+![WhatsApp Image 2026-03-19 at 2 54 16 PM](https://github.com/user-attachments/assets/84aa1f4f-c737-4184-ae17-35639ecf4748)
+
+![WhatsApp Image 2026-03-19 at 2 54 16 PM (1)](https://github.com/user-attachments/assets/0d7fb9ab-882c-450d-bf65-3e812af03b22)
 
 
 
